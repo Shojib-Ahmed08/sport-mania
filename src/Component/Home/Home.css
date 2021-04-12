@@ -1,0 +1,46 @@
+.header-container{
+    height: 275px;
+    background-image: url(../../stadium.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    margin-bottom: -27px;
+
+}
+.header-container h2{
+    color: gold;
+    padding-top: 80px;
+    text-align: center;
+}
+.text-container{
+    opacity: 0.9;
+    padding-top: 60px;
+    text-align: center;
+}
+.text-container h1{
+    color: cyan;
+    padding-top: 40px;
+    width: 400px;
+}
+.text-container img{
+    height: 150px;
+    margin-left: 50px;
+}
+.details-container{
+    height: auto;
+    border-radius: 20px;
+    background-color: blue;
+    max-width:  100%;
+    margin-top: 20px;
+}
+.item{
+    width: 100%;
+    padding: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.team-img{
+    height: 250px;
+    width: auto;
+    padding: 30px;
+    border-radius: 50px;
+}
